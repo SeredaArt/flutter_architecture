@@ -1,4 +1,4 @@
-name: flutter_architecture
+name: flutter_architecture_data
 description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
@@ -31,12 +31,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-  get_it: ^7.6.0
-  provider: ^6.0.5
-
-  flutter_architecture_business:
-      path: packages/flutter_architecture_business
-
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
@@ -45,6 +39,8 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
+  get_it: ^7.6.0
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
