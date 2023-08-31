@@ -28,6 +28,6 @@ linter:
 # Additional information about this file can be found at
 # https://dart.dev/guides/language/analysis-options
 
-analyzer:
+  analyzer:
   exclude:
     - packages/flutter_architecture_model/lib/src/user_data.freezed.dart

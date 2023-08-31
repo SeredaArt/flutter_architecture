@@ -1,5 +1,5 @@
 import 'package:flutter_architecture_data/flutter_architecture_data.dart';
-import 'package:flutter_architecture_data/src/internals.dart';
+import 'package:flutter_architecture_data/src/implementation/internals.dart';
 import 'package:get_it/get_it.dart';
 
 class ServiceProvider {
